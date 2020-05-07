@@ -33,6 +33,10 @@ Em seguida, insira o carrossel de produtos em algum layout da sua loja.
 Exemplo: Para inserir na página inicial: Design -> Layouts -> Página principal.
 Em Selecione a posição dos módulos, selecione o seu carrossel de produtos e insira onde desejar.
 
+# Layout
+
+![alt text](https://atividadeon.com.br/static/img/readme-example.png)
+
 # Licença
 
 The MIT License (MIT)
