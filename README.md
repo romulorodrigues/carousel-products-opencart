@@ -1,12 +1,12 @@
 # Módulo de carrossel de produtos para OpenCart
-# Descrição
+## Descrição
 
 Com o módulo instalado e configurado, você pode pode exibir um carrossel (slideshow) de produtos na sua loja.
 
-# Requisitos
+## Requisitos
 - OpenCart 3.0.3.2
 
-# Instalação
+## Instalação
 
 - Faça um backup da sua loja;
 - Baixe o repositório como arquivo zip ou faça um clone;
@@ -14,7 +14,7 @@ Com o módulo instalado e configurado, você pode pode exibir um carrossel (slid
 - Certifique-se de que as permissões das pastas e arquivos recém copiados sejam, respectivamente, definidas como 755 e 644;
 - Na área administrativa do seu sistema, acesse o menu Extensions -> Extensions, selecione o tipo de extensão Modules, localize a extensão Carrossel de Produtos e clique em instalar.
 
-# Configuração
+## Configuração
 
 Para criar um carrossel de produtos para a sua loja, acesse o menu Extensions -> Extensions, selecione o tipo de extensão Modules,  localize a extensão Carrossel de Produtos e clique em New. As opções disponíveis estão descritas abaixo:
 
@@ -33,18 +33,18 @@ Em seguida, insira o carrossel de produtos em algum layout da sua loja.
 Exemplo: Para inserir na página inicial: Design -> Layouts -> Página principal.
 Em Selecione a posição dos módulos, selecione o seu carrossel de produtos e insira onde desejar.
 
-# Layout
+## Layout
 
 ![alt text](https://atividadeon.com.br/static/img/readme-example.png)
 
-# Licença
+## Licença
 
 The MIT License (MIT)
 
-# Dúvidas?
+## Dúvidas?
 Em caso de dúvidas mande um e-mail para romulorodrigue@gmail.com
 
-# Contribuições
+## Contribuições
 
 Achou e corrigiu um bug ou tem alguma feature em mente e deseja contribuir?
 
