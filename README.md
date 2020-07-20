@@ -1,7 +1,7 @@
 # Módulo de carrossel de produtos para OpenCart
-## Descrição
 
-Com o módulo instalado e configurado, você pode pode exibir um carrossel (slideshow) de produtos na sua loja.
+## Descrição
+Carrossel (slideshow) de produtos para a sua loja.
 
 ## Requisitos
 - OpenCart 3.0.3.2
